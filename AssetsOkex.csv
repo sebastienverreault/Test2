@@ -1,0 +1,5 @@
+Name,Price,Spread,RollLong,RollShort,PIP,PIPCost,MarginCost,Leverage,LotAmount,Commission,Symbol
+BTC,57125,0,0,0,0.1,0.001,0,1,1,0,*
+BTCUSD,57125,0,0,0,1,0.001,0,0,100,0,*
+BTC-PERPETUAL,10000,3.5,0,0,0.1,0.001,0,3,100,-0.1,*
+BTC-26MAR21,57125,3.5,0,0,0.1,0.0000111643,0.0000022329,0,1,-0.001,*
